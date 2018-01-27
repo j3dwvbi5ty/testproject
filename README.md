@@ -1,2 +1,2 @@
 # Pierwszy projekt.
-Pierwszy projekt na GitHubie
+Kolejne zmiany w kodzie. Jest fajnie.
